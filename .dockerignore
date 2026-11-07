@@ -1,0 +1,8 @@
+.venv
+.git
+__pycache__
+*.pyc
+tools/refbots
+tools/build_preflop.py
+tools/sim.py
+tools/tourney.py
